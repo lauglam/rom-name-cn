@@ -12,7 +12,7 @@
 ---|---|---
 任天堂 FC/NES | 0/3006 | ![In Progress][In Progress]
 任天堂 SFC/SNES | 0/3625 | ![In Progress][In Progress]
-[任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
+[任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 323/323 | ![Completed 100%][Completed 100]
 任天堂 N64 | 0/1028 | ![In Progress][In Progress]
 索尼 PS1 | 0/10066 | ![Not Started][Not Started]
 索尼 PS2 | 0/10835 | ![Not Started][Not Started]
